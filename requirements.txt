@@ -1,0 +1,10 @@
+unittest
+httpretty
+argparse
+simplejson
+json
+sys
+os
+decimal
+datetime
+requests
